@@ -231,7 +231,8 @@
         "serializedMesh": {
             "m_SerializedMesh": "{\"mesh\":{\"instanceID\":0}}",
             "m_Guid": ""
-        }
+        },
+        "preventRotation": false
     },
     "m_Path": "Shader Graphs",
     "m_GraphPrecision": 1,
@@ -744,10 +745,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -141.5,
-            "y": 126.0,
-            "width": 208.00003051757813,
-            "height": 434.00006103515627
+            "x": -136.0,
+            "y": 130.00001525878907,
+            "width": 207.99996948242188,
+            "height": 434.0
         }
     },
     "m_Slots": [
@@ -1324,7 +1325,8 @@
     "m_AlphaClip": false,
     "m_CastShadows": true,
     "m_ReceiveShadows": true,
-    "m_CustomEditorGUI": ""
+    "m_CustomEditorGUI": "",
+    "m_SupportVFX": false
 }
 
 {
